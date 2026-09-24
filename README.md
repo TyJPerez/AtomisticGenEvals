@@ -8,7 +8,7 @@ Please cite the repository itself, and mention the specific method (e.g. AFD) an
 
 ```bibtex
 @misc{perez2026atomisticgenevals,
-  author       = {Perez, Ty},
+  author       = {Perez, Tynan and G{\'o}mez-Bombarelli,Rafael},
   title        = {Distributional Evaluations for Atomistic Generations: a set of methods and technical reports for evaluating atomistic generative models},
   year         = {2026},
   howpublished = {\url{https://github.com/TyJPerez/AtomisticGenEvals}},
