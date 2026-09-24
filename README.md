@@ -1,6 +1,6 @@
-# Atomistic Generations Evaluations
+# Distributional Evaluations for Atomistic Generations 
 
-This is the publication development repo for better evaluation methods of atomistic generative models. Here we will be sharing our methods and technical reports to help push the research community towards better model evaluations. If you use anything from this repo please cite it using the BibTeX below.
+This is the public development repo for better evaluation methods of atomistic generative models. Here we will be sharing our methods and technical reports to help push the research community towards better model evaluations. If you use anything from this repo please cite it with the BibTeX below.
 
 ## Citing this repo
 
@@ -9,10 +9,9 @@ Please cite the repository itself, and mention the specific method (e.g. AFD) an
 ```bibtex
 @misc{perez2026atomisticgenevals,
   author       = {Perez, Ty},
-  title        = {Atomistic Generations Evaluations: methods and technical reports for evaluating atomistic generative models},
+  title        = {Distributional Evaluations for Atomistic Generations: a set of methods and technical reports for evaluating atomistic generative models},
   year         = {2026},
   howpublished = {\url{https://github.com/TyJPerez/AtomisticGenEvals}},
-  note         = {Includes the Atomistic Fr\'{e}chet Distance (AFD) technical report}
 }
 ```
 
