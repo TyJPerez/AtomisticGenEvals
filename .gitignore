@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.eggs/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+.env
+
+# Data / downloads created at runtime (QM9 download, HF checkpoint caches)
+tmp/
+experiments/
+
+# LaTeX build artifacts (sources, figures and the PDF stay tracked)
+*.aux
+*.log
+*.fls
+*.fdb_latexmk
+*.out
+*.synctex.gz
+*.toc
+*.bbl
+*.blg
+
+# Editors / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
